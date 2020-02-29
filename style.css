@@ -1,0 +1,11 @@
+#btns{
+    text-align: center;
+    height:100px;
+}
+.btn{
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    background: rgb(212,75,56); 
+    padding: .7em 1.5em;
+}
